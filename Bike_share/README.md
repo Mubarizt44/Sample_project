@@ -2,7 +2,8 @@
 
 ## Problem Statement 
 Develop a dashboard that displays our key performance metrics for informed decision-making.
-**Requirements:**
+
+### **Requirements:**
 - Hourly Revenue Analysis
 - Profit and Renvenue Trends
 - Seasonal Revenue
