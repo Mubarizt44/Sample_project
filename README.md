@@ -1,5 +1,4 @@
 # Sample_projects
-
 Projects are included with a README file defining the problem statement.
 
 ## Work flow
