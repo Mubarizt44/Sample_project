@@ -4,4 +4,4 @@ Projects are included with a README file defining the problem statement.
 ## Work flow
 
 - The work flow here is mostly Excel -> SQL -> Power BI
-- Some of the projects use python for data manipulation and visualization.  
+- Some projects use python for data manipulation and visualization.  
